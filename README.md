@@ -28,7 +28,7 @@ Persistence is achieved by dropping `DebugConfig.bat` and a `.lnk` file in the S
 
 ## 🛡 Detection
 ### YARA Rules
-- `RustMe_Keylogger1` – high-confidence detection of RustMe samples
+- `RustMe_Keylogger` – high-confidence detection of RustMe samples
 
 YARA rules are included in [`yara/`].
 
